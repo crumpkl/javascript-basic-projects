@@ -12,9 +12,9 @@ Find the Content Useful? [You can always buy me a coffee](https://www.buymeacoff
 
 [Projects](https://www.vanillajavascriptprojects.com/)
 
-1. Color Flipper
-2. Counter
-3. Reviews
+1. Color Flipper - watched 
+2. Counter - watched
+3. Reviews*
 4. Navbar
 5. Sidebar
 6. Modal
